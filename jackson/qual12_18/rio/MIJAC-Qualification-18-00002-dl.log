@@ -1,0 +1,2 @@
+Timestamp,LeftVelocity,RightVelocity,PoseRotationDeg,PoseTransY,PoseTransX,PoseTransNorm,Heading,RightWheelSpeed,LeftWheelSpeed,LeftDistanceMeters,RightDistanceMeters,XValue,YValue,Found,VisionHeight,motor 1 speed,motor 2 speed,motor 3 speed
+342.714851,0.006619981029497331,0.0,-79.55999755859374,0.9452814264146738,4.895390390491076,4.9858202986506575,-439.55999755859375,0.0,0.006619981029497331,3.0544936846478827,6.137508367288766,625.0,138.0,1.0,41.0,-0.0,-0.0,0.0
